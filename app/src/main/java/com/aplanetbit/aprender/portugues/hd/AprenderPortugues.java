@@ -122,10 +122,6 @@ public class AprenderPortugues extends Activity implements OnInitListener {
         // Request an ad
         adView.loadAd();
 
-        // call this when you want to display the Leadbolt Interstitial
-        //AppTracker.loadModule(getApplicationContext(), "inapp");
-
-
 // All subsequent hits will be send with screen name = "main screen"
 
 
